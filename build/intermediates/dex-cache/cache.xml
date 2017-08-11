@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sopan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\sopan\Desktop\SecureSMS\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-491f74ad3d16d96d680cf2827e64c5da4436d5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\sopan\Desktop\SecureSMS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\sopan\Desktop\SecureSMS\app\build\intermediates\pre-dexed\debug\classes-c1c6273e22b35f577e7112e715117e832a45451a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sopan\Desktop\SecureSMS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\sopan\Desktop\SecureSMS\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0ab4e03de95035481866fbda59a2d7dddf022da4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sopan\Desktop\SecureSMS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\sopan\Desktop\SecureSMS\app\build\intermediates\pre-dexed\debug\classes-d2ad1d9cc67de38e10b2e201b5e17fd981606df3.jar" />
+    </item>
+
+</items>
